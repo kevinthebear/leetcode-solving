@@ -1,2 +1,2 @@
-# leetcode
-Solving problems in Leetcode!
+## Leetcode Problem Solving
+Currently solving problems in Leetcode!
